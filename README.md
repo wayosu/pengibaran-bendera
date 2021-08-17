@@ -6,6 +6,6 @@ Pengibaran bendera Merah Putih menggunakan HTML, CSS, &amp; JS
 Created by KSL-UNG
 
 Develop By :
-- Singgi Mokodompit
-- Azwar Ramadhan Botutihe
-- Wahyu Setiawan Usman
+- [Singgi Mokodompit](https://github.com/singgiproject)
+- [Azwar Ramadhan Botutihe](https://github.com/AzBot001)
+- [Wahyu Setiawan Usman](https://github.com/wayosu)
