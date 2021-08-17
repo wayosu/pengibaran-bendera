@@ -1,6 +1,8 @@
 # pengibaran-bendara
 Pengibaran bendera Merah Putih menggunakan HTML, CSS, &amp; JS
 
+![](img/preview.png)
+
 Created by KSL-UNG
 
 Develop By :
